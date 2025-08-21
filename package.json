@@ -10,7 +10,7 @@
   "start": "react-scripts start",
   "build": "vite build",
   "predeploy": "yarn build",
-  "deploy": "gh-pages -d build",
+  "deploy": "gh-pages -d dist",
     "lint": "eslint .",
     "preview": "vite preview"
   },
