@@ -11,6 +11,7 @@ export default function PrintProducts() {
         marginTop: "20px",
       }}
     >
+      <h1>Carrito de compras</h1>
       <ProductList products={products} />
     </div>
   );
